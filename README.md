@@ -1,3 +1,7 @@
+<p align="center"><a href="" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="400"></a></p>
+
+
+
 # WEBSITE PENGAJUAN CUTI DAN IZIN KEPEGAWAIAN
 
 Fitur :
